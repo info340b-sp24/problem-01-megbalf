@@ -5,5 +5,12 @@ img {
 body {
   font-size: 16px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+p {
   line-height: 1.5;
+}
+
+.important{
+  color:blue
 }
